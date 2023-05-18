@@ -1,8 +1,8 @@
 export const Newsletter = () => {
   return (
-    <div className="w-full py-16 text-white bg-black">
+    <div className="w-full py-16 px-4 text-white bg-black">
       <div className="max-w-[1240px] mx-auto lg:grid-cols-3">
-        <div className="lg:col-span-2">
+        <div className="lg:col-span-2 my-4">
           <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">
             Want tips to get good?
           </h1>
